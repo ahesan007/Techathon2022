@@ -1,0 +1,257 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[<b>Step 1: Launched URL</b> <br />]]>
+    </line>
+    <line>
+      <![CDATA[<b>Step 2: Select Image from system</b> <br />]]>
+    </line>
+    <line>
+      <![CDATA[<b>Step 3: Image uploaded successfully</b> <br />]]>
+    </line>
+    <line>
+      <![CDATA[<b>Step 4: Added Name</b> <br />]]>
+    </line>
+    <line>
+      <![CDATA[<b>Step 5: Added Email</b> <br />]]>
+    </line>
+    <line>
+      <![CDATA[<b>Step 6: Added Website</b> <br />]]>
+    </line>
+    <line>
+      <![CDATA[<b>Step 7: Added Experience</b> <br />]]>
+    </line>
+    <line>
+      <![CDATA[<b>Step 8: Added Expertise</b> <br />]]>
+    </line>
+    <line>
+      <![CDATA[<b>Step 9: Added Education</b> <br />]]>
+    </line>
+    <line>
+      <![CDATA[<b>Step 10: Added Comment</b> <br />]]>
+    </line>
+    <line>
+      <![CDATA[<b>Step 11: Clicked on submit</b> <br />]]>
+    </line>
+    <line>
+      <![CDATA[<b>Step 12: Verified all the submitted details</b> <br />]]>
+    </line>
+    <line>
+      <![CDATA[<b>Step 1: Launched URL</b> <br />]]>
+    </line>
+    <line>
+      <![CDATA[<b>Step 2: Today's date is: 24</b> <br />]]>
+    </line>
+    <line>
+      <![CDATA[<b>Step 3: Selected TodayDate + 4 days, as From Date: 09/28/2022</b> <br />]]>
+    </line>
+    <line>
+      <![CDATA[<b>Step 4: Selected FromDate + 5 days, as TO Date: 10/03/2022</b> <br />]]>
+    </line>
+    <line>
+      <![CDATA[<b>Step 1: Launched URL</b> <br />]]>
+    </line>
+    <line>
+      <![CDATA[<b>Step 2: Clicked on iFrame Tab</b> <br />]]>
+    </line>
+    <line>
+      <![CDATA[<b>Step 3: Clicked on Selenium Online Training</b> <br />]]>
+    </line>
+    <line>
+      <![CDATA[<b>Step 4: Verified title: Selenium 3.0 Training</b> <br />]]>
+    </line>
+    <line>
+      <![CDATA[<b>Step 1: Launched URL</b> <br />]]>
+    </line>
+    <line>
+      <![CDATA[<b>Step 2: Clicked on Add new record</b> <br />]]>
+    </line>
+    <line>
+      <![CDATA[<b>Step 3: Added Name</b> <br />]]>
+    </line>
+    <line>
+      <![CDATA[<b>Step 4: Added Department</b> <br />]]>
+    </line>
+    <line>
+      <![CDATA[<b>Step 5: Added Phone number</b> <br />]]>
+    </line>
+    <line>
+      <![CDATA[<b>Step 6: New record added successfully</b> <br />]]>
+    </line>
+    <line>
+      <![CDATA[<b>Step 7: Identfied existing record and Clicked on edit</b> <br />]]>
+    </line>
+    <line>
+      <![CDATA[<b>Step 8: Name edited</b> <br />]]>
+    </line>
+    <line>
+      <![CDATA[<b>Step 9: Department edited</b> <br />]]>
+    </line>
+    <line>
+      <![CDATA[<b>Step 10: Phone number edited</b> <br />]]>
+    </line>
+    <line>
+      <![CDATA[<b>Step 11: Clicked on update record, record updated!</b> <br />]]>
+    </line>
+    <line>
+      <![CDATA[<b>Step 12: Identified exisitng record and deleted. </b> <br />]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2022-09-24T15:48:43 GMT-07:00" name="Suite" finished-at="2022-09-24T15:50:16 GMT-07:00" duration-ms="93129">
+    <groups>
+    </groups>
+    <test started-at="2022-09-24T15:48:43 GMT-07:00" name="Script.1 - Registration form" finished-at="2022-09-24T15:49:21 GMT-07:00" duration-ms="38395">
+      <class name="framework.Demo.Script1">
+        <test-method is-config="true" signature="excelReader()[pri:0, instance:framework.Demo.Script1@710c2b53]" started-at="2022-09-24T15:48:43 GMT-07:00" name="excelReader" finished-at="2022-09-24T15:48:43 GMT-07:00" duration-ms="488" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- excelReader -->
+        <test-method is-config="true" signature="Setup()[pri:0, instance:framework.Demo.Script1@710c2b53]" started-at="2022-09-24T15:48:43 GMT-07:00" name="Setup" finished-at="2022-09-24T15:48:48 GMT-07:00" duration-ms="5250" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Setup -->
+        <test-method signature="Form()[pri:0, instance:framework.Demo.Script1@710c2b53]" started-at="2022-09-24T15:48:48 GMT-07:00" name="Form" finished-at="2022-09-24T15:49:21 GMT-07:00" duration-ms="32632" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[<b>Step 1: Launched URL</b> <br />]]>
+            </line>
+            <line>
+              <![CDATA[<b>Step 2: Select Image from system</b> <br />]]>
+            </line>
+            <line>
+              <![CDATA[<b>Step 3: Image uploaded successfully</b> <br />]]>
+            </line>
+            <line>
+              <![CDATA[<b>Step 4: Added Name</b> <br />]]>
+            </line>
+            <line>
+              <![CDATA[<b>Step 5: Added Email</b> <br />]]>
+            </line>
+            <line>
+              <![CDATA[<b>Step 6: Added Website</b> <br />]]>
+            </line>
+            <line>
+              <![CDATA[<b>Step 7: Added Experience</b> <br />]]>
+            </line>
+            <line>
+              <![CDATA[<b>Step 8: Added Expertise</b> <br />]]>
+            </line>
+            <line>
+              <![CDATA[<b>Step 9: Added Education</b> <br />]]>
+            </line>
+            <line>
+              <![CDATA[<b>Step 10: Added Comment</b> <br />]]>
+            </line>
+            <line>
+              <![CDATA[<b>Step 11: Clicked on submit</b> <br />]]>
+            </line>
+            <line>
+              <![CDATA[<b>Step 12: Verified all the submitted details</b> <br />]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- Form -->
+      </class> <!-- framework.Demo.Script1 -->
+    </test> <!-- Script.1 - Registration form -->
+    <test started-at="2022-09-24T15:49:21 GMT-07:00" name="Script.2 - DatePicker" finished-at="2022-09-24T15:49:43 GMT-07:00" duration-ms="21898">
+      <class name="framework.Demo.Script2">
+        <test-method is-config="true" signature="Setup()[pri:0, instance:framework.Demo.Script2@c430e6c]" started-at="2022-09-24T15:49:21 GMT-07:00" name="Setup" finished-at="2022-09-24T15:49:24 GMT-07:00" duration-ms="3172" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Setup -->
+        <test-method signature="DatePicker()[pri:0, instance:framework.Demo.Script2@c430e6c]" started-at="2022-09-24T15:49:24 GMT-07:00" name="DatePicker" finished-at="2022-09-24T15:49:43 GMT-07:00" duration-ms="18725" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[<b>Step 1: Launched URL</b> <br />]]>
+            </line>
+            <line>
+              <![CDATA[<b>Step 2: Today's date is: 24</b> <br />]]>
+            </line>
+            <line>
+              <![CDATA[<b>Step 3: Selected TodayDate + 4 days, as From Date: 09/28/2022</b> <br />]]>
+            </line>
+            <line>
+              <![CDATA[<b>Step 4: Selected FromDate + 5 days, as TO Date: 10/03/2022</b> <br />]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- DatePicker -->
+      </class> <!-- framework.Demo.Script2 -->
+    </test> <!-- Script.2 - DatePicker -->
+    <test started-at="2022-09-24T15:49:43 GMT-07:00" name="Script.3 - iFrames" finished-at="2022-09-24T15:49:56 GMT-07:00" duration-ms="13395">
+      <class name="framework.Demo.Script3">
+        <test-method is-config="true" signature="Setup()[pri:0, instance:framework.Demo.Script3@5a59ca5e]" started-at="2022-09-24T15:49:43 GMT-07:00" name="Setup" finished-at="2022-09-24T15:49:48 GMT-07:00" duration-ms="5078" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Setup -->
+        <test-method signature="iFrames()[pri:0, instance:framework.Demo.Script3@5a59ca5e]" started-at="2022-09-24T15:49:48 GMT-07:00" name="iFrames" finished-at="2022-09-24T15:49:56 GMT-07:00" duration-ms="8315" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[<b>Step 1: Launched URL</b> <br />]]>
+            </line>
+            <line>
+              <![CDATA[<b>Step 2: Clicked on iFrame Tab</b> <br />]]>
+            </line>
+            <line>
+              <![CDATA[<b>Step 3: Clicked on Selenium Online Training</b> <br />]]>
+            </line>
+            <line>
+              <![CDATA[<b>Step 4: Verified title: Selenium 3.0 Training</b> <br />]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- iFrames -->
+      </class> <!-- framework.Demo.Script3 -->
+    </test> <!-- Script.3 - iFrames -->
+    <test started-at="2022-09-24T15:49:56 GMT-07:00" name="Script.4 - CRUD" finished-at="2022-09-24T15:50:16 GMT-07:00" duration-ms="19428">
+      <class name="framework.Demo.Script4">
+        <test-method is-config="true" signature="jsonReader()[pri:0, instance:framework.Demo.Script4@4007f65e]" started-at="2022-09-24T15:49:56 GMT-07:00" name="jsonReader" finished-at="2022-09-24T15:49:56 GMT-07:00" duration-ms="4" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- jsonReader -->
+        <test-method is-config="true" signature="Setup()[pri:0, instance:framework.Demo.Script4@4007f65e]" started-at="2022-09-24T15:49:56 GMT-07:00" name="Setup" finished-at="2022-09-24T15:50:00 GMT-07:00" duration-ms="3432" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Setup -->
+        <test-method signature="AddEmployeeDetails()[pri:0, instance:framework.Demo.Script4@4007f65e]" started-at="2022-09-24T15:50:00 GMT-07:00" name="AddEmployeeDetails" finished-at="2022-09-24T15:50:16 GMT-07:00" duration-ms="15992" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[<b>Step 1: Launched URL</b> <br />]]>
+            </line>
+            <line>
+              <![CDATA[<b>Step 2: Clicked on Add new record</b> <br />]]>
+            </line>
+            <line>
+              <![CDATA[<b>Step 3: Added Name</b> <br />]]>
+            </line>
+            <line>
+              <![CDATA[<b>Step 4: Added Department</b> <br />]]>
+            </line>
+            <line>
+              <![CDATA[<b>Step 5: Added Phone number</b> <br />]]>
+            </line>
+            <line>
+              <![CDATA[<b>Step 6: New record added successfully</b> <br />]]>
+            </line>
+            <line>
+              <![CDATA[<b>Step 7: Identfied existing record and Clicked on edit</b> <br />]]>
+            </line>
+            <line>
+              <![CDATA[<b>Step 8: Name edited</b> <br />]]>
+            </line>
+            <line>
+              <![CDATA[<b>Step 9: Department edited</b> <br />]]>
+            </line>
+            <line>
+              <![CDATA[<b>Step 10: Phone number edited</b> <br />]]>
+            </line>
+            <line>
+              <![CDATA[<b>Step 11: Clicked on update record, record updated!</b> <br />]]>
+            </line>
+            <line>
+              <![CDATA[<b>Step 12: Identified exisitng record and deleted. </b> <br />]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- AddEmployeeDetails -->
+      </class> <!-- framework.Demo.Script4 -->
+    </test> <!-- Script.4 - CRUD -->
+  </suite> <!-- Suite -->
+</testng-results>

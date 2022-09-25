@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[<b>Step 1: Launched URL</b> <br />]]>
+    </line>
+    <line>
+      <![CDATA[<b>Step 2: Clicked on SignUp</b> <br />]]>
+    </line>
+    <line>
+      <![CDATA[<b>Step 3: Added Name</b> <br />]]>
+    </line>
+    <line>
+      <![CDATA[<b>Step 4: Added Email</b> <br />]]>
+    </line>
+    <line>
+      <![CDATA[<b>Step 5: Added Password</b> <br />]]>
+    </line>
+    <line>
+      <![CDATA[<b>Step 6: Added Confirm Password</b> <br />]]>
+    </line>
+    <line>
+      <![CDATA[<b>Step 7: Clicked on sign up</b> <br />]]>
+    </line>
+    <line>
+      <![CDATA[<b>Step 8: New user created successfully!</b> <br />]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2022-09-25T03:53:13 GMT-07:00" name="Default suite" finished-at="2022-09-25T03:53:27 GMT-07:00" duration-ms="13581">
+    <groups>
+    </groups>
+    <test started-at="2022-09-25T03:53:13 GMT-07:00" name="Default test" finished-at="2022-09-25T03:53:27 GMT-07:00" duration-ms="13581">
+      <class name="framework.TakeCode.Registration">
+        <test-method is-config="true" signature="Setup()[pri:0, instance:framework.TakeCode.Registration@593aaf41]" started-at="2022-09-25T03:53:13 GMT-07:00" name="Setup" finished-at="2022-09-25T03:53:16 GMT-07:00" duration-ms="2768" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Setup -->
+        <test-method signature="registration()[pri:0, instance:framework.TakeCode.Registration@593aaf41]" started-at="2022-09-25T03:53:16 GMT-07:00" name="registration" finished-at="2022-09-25T03:53:27 GMT-07:00" duration-ms="10790" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[<b>Step 1: Launched URL</b> <br />]]>
+            </line>
+            <line>
+              <![CDATA[<b>Step 2: Clicked on SignUp</b> <br />]]>
+            </line>
+            <line>
+              <![CDATA[<b>Step 3: Added Name</b> <br />]]>
+            </line>
+            <line>
+              <![CDATA[<b>Step 4: Added Email</b> <br />]]>
+            </line>
+            <line>
+              <![CDATA[<b>Step 5: Added Password</b> <br />]]>
+            </line>
+            <line>
+              <![CDATA[<b>Step 6: Added Confirm Password</b> <br />]]>
+            </line>
+            <line>
+              <![CDATA[<b>Step 7: Clicked on sign up</b> <br />]]>
+            </line>
+            <line>
+              <![CDATA[<b>Step 8: New user created successfully!</b> <br />]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- registration -->
+      </class> <!-- framework.TakeCode.Registration -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

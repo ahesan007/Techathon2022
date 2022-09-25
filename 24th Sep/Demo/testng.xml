@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+  <listeners>
+<listener class-name="org.uncommons.reportng.HTMLReporter" />
+</listeners>
+  <test name="Script.1 - Registration form">
+    <classes>
+      <class name="framework.Demo.Script1"/>
+    </classes>
+  </test> 
+ 
+   <test name="Script.2 - DatePicker"> 
+     <classes> 
+      <class name="framework.Demo.Script2"/> 
+    </classes> 
+  </test>  
+  
+  <test name="Script.3 - iFrames">
+    <classes>
+      <class name="framework.Demo.Script3"/>
+    </classes>
+  </test> 
+  
+  <test name="Script.4 - CRUD">
+    <classes>
+      <class name="framework.Demo.Script4"/>
+    </classes>
+  </test> 
+  
+   
+</suite> 

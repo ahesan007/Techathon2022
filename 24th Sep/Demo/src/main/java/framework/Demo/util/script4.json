@@ -1,0 +1,18 @@
+{
+	"testData":
+	{
+    "Name":"Deepak",
+    "Department": "Automation",
+    "Phone":"989898989",
+    
+    "RecordNameToEdit": "Fran Wilson",
+   
+    "oldName":"Fran Wilson",
+    "oldDepartment":"Human Resources",
+    "oldPhone":"(503) 555-9931",
+    
+    "newName":"Fran Test",
+    "newDepartment":"Human Resources Test",
+    "newPhone":"(503) 000-0000"
+    }
+ }

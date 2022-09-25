@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Suite]" guice-stage="DEVELOPMENT" verbose="0">
+  <listeners>
+    <listener class-name="org.uncommons.reportng.HTMLReporter"/>
+  </listeners>
+  <test thread-count="5" name="Script.1 - Registration form(failed)" verbose="0">
+    <classes>
+      <class name="framework.Demo.Script1">
+        <methods>
+          <include name="Form"/>
+          <include name="excelReader"/>
+          <include name="Setup"/>
+        </methods>
+      </class> <!-- framework.Demo.Script1 -->
+    </classes>
+  </test> <!-- Script.1 - Registration form(failed) -->
+  <test thread-count="5" name="Script.2 - DatePicker(failed)" verbose="0">
+    <classes>
+      <class name="framework.Demo.Script2">
+        <methods>
+          <include name="DatePicker"/>
+          <include name="Setup"/>
+        </methods>
+      </class> <!-- framework.Demo.Script2 -->
+    </classes>
+  </test> <!-- Script.2 - DatePicker(failed) -->
+  <test thread-count="5" name="Script.3 - iFrames(failed)" verbose="0">
+    <classes>
+      <class name="framework.Demo.Script3">
+        <methods>
+          <include name="Setup"/>
+          <include name="iFrames"/>
+        </methods>
+      </class> <!-- framework.Demo.Script3 -->
+    </classes>
+  </test> <!-- Script.3 - iFrames(failed) -->
+  <test thread-count="5" name="Script.4 - CRUD(failed)" verbose="0">
+    <classes>
+      <class name="framework.Demo.Script4">
+        <methods>
+          <include name="Setup"/>
+          <include name="AddEmployeeDetails"/>
+          <include name="jsonReader"/>
+        </methods>
+      </class> <!-- framework.Demo.Script4 -->
+    </classes>
+  </test> <!-- Script.4 - CRUD(failed) -->
+</suite> <!-- Failed suite [Suite] -->
